@@ -1,1 +1,1 @@
-#I like the idea of the extension of the invisible cities, so it's a simple python program run the same way as we've shown on previous posts..and don't forget, when the doors of perception are open chances are infinite...!!! think outside of the box!!!
+#Έκανα κάποιες αλλαγές τόσο στη μορφή όσο και στο περιεχόμενο του κειμένου, επίσης τώρα το κείμενο είναι σε .html   !! enjoy!
